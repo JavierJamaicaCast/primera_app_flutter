@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:primera_app_fluttrer/Clases/Clase10/Modelos/Gif.dart';
+import 'package:primera_app_fluttrer/Clases/Clase10_API_Rest_Future/Modelos/Gif.dart';
 import 'package:http/http.dart' as http;
 
 void main() => runApp(MiApp());

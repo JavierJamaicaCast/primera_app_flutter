@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:primera_app_fluttrer/Clases/Clase15/Paginas/paginaStatefull.dart';
-import 'package:primera_app_fluttrer/Clases/Clase15/Paginas/paginaStateless.dart';
+import 'package:primera_app_fluttrer/Clases/Clase15_InfoEntrePaginas/Paginas/paginaStatefull.dart';
+import 'package:primera_app_fluttrer/Clases/Clase15_InfoEntrePaginas/Paginas/paginaStateless.dart';
 
 void main() => runApp(MiApp());
 
