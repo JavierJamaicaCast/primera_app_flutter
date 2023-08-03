@@ -2,7 +2,7 @@
     <application
         android:label="primera_app_fluttrer"
         android:name="${applicationName}"
-        android:icon="@mipmap/splash">
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:exported="true"
