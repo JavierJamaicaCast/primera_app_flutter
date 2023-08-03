@@ -25,7 +25,8 @@ Future<void> mostrarNotificacion() async {
       ?.requestPermission();
 
   const AndroidNotificationDetails androidNotificationDetails =
-      AndroidNotificationDetails('channel id', 'your_channel');
+      AndroidNotificationDetails('channel id', 'your channel',
+          importance: Importance.max, priority: Priority.high);
 
   /* const DarwinNotificationDetails darwinNotificationDetails =
       DarwinNotificationDetails(); */
